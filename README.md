@@ -2,6 +2,11 @@
 
 Bu proje, tarayıcı eklentileri için modern ve kullanıcı dostu bir arayüz sunmayı amaçlayan bir React tabanlı uygulamadır.
 
+<img width="1901" height="908" alt="image" src="https://github.com/user-attachments/assets/c1706098-91a2-48a3-8f68-fc905a956d46" />
+
+<img width="1890" height="899" alt="image" src="https://github.com/user-attachments/assets/92c0408d-2aae-437f-90f2-60e5a437831a" />
+
+
 ## Özellikler
 
 - Eklenti kartları ile görsel ve sezgisel yönetim
